@@ -2,7 +2,7 @@
 title: "Google Cloud 認定資格概要"
 ---
 # Google Cloud 認定資格
-## 資格の種類^[https://cloud.google.com/certification?hl=ja#why-get-google-cloud-certified]
+## 資格の種類^[<https://cloud.google.com/certification?hl=ja#why-get-google-cloud-certified>]
 | ランク | 推奨経験 | 資格名 |
 | ---- | ---- | ---- |
 | 初級 | 技術的な前提条件はなし | Cloud Digital Leader |
