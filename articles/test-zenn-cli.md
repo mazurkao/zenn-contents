@@ -2,7 +2,7 @@
 title: "test"
 emoji: "📖"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["zenn"]
+topics: ["test"]
 published: false
 ---
 # テスト投稿
