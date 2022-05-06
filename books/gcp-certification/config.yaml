@@ -3,7 +3,7 @@ summary: |-
   Associate Cloud Engineer,Professional Cloud Architect取得に向けた勉強メモです。
   徐々に追記する予定です。
 topics: ["GCP"]
-published: false
+published: true
 price: 0 # 有料の場合200〜5000
 chapters:
   - gcp-first
