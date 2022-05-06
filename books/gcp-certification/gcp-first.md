@@ -2,8 +2,9 @@
 title: "Google Cloud 認定資格概要"
 ---
 # はじめに
-GWの間にAssociate Cloud EngineerとProfessional Cloud Architectを取ろうと勉強しました。  
+GWの間にAssociate Cloud EngineerとProfessional Cloud Architect取得に向けて勉強しました。  
 せっかくなので、メモを残しておきます。
+徐々に追記する予定です。
 
 # Google Cloud 認定資格
 ## 資格の種類^[<https://cloud.google.com/certification?hl=ja#why-get-google-cloud-certified>]
