@@ -2,8 +2,8 @@ title: "GCP資格取得に向けたメモ"
 summary: |-
   Associate Cloud Engineer,Professional Cloud Architect取得に向けた勉強メモです。
   徐々に追記する予定です。
-topics: ["zenn"]
+topics: ["GCP"]
 published: false
 price: 0 # 有料の場合200〜5000
 chapters:
-  - gcp-first.md
+  - gcp-first
