@@ -14,9 +14,9 @@ Google Cloudではデフォルトで外部IPアドレスのTCPポート25（SMTP
 ## トラフィックの方向
 ファイアウォール ルールの方向は、上り（内向き）と下り（外向き）のいずれかです。方向は常に、ファイアウォール ルールが適用される VM（ターゲット）の視点から定義されます。
 上り（内向き）方向は、送信元からターゲットに送信される接続を表します。
-![](https://storage.googleapis.com/zenn-user-upload/da8a6350f1d4-20220507.png =400x)
+![](https://storage.googleapis.com/zenn-user-upload/da8a6350f1d4-20220507.png =600x)
 下り（外向き）方向は、ターゲットから宛先に送信されるトラフィックを表します。
-![](https://storage.googleapis.com/zenn-user-upload/10d8d3f3c347-20220507.png =400x)
+![](https://storage.googleapis.com/zenn-user-upload/10d8d3f3c347-20220507.png =600x)
 方向を指定しない場合、Google Cloud は上り（内向き）を使用します。
 
 
@@ -36,4 +36,4 @@ deny アクションは、他の指定されたコンポーネントと一致す
 
 ## プロトコルとポート
 プロトコル、またはプロトコルと宛先ポートを指定すると、ファイアウォール ルールの範囲を狭めることができます。プロトコル、またはプロトコルと宛先ポートの組み合わせを指定できます。プロトコルとポートの両方を省略した場合、ファイアウォール ルールは、任意のプロトコルと任意の宛先ポートの、すべてのトラフィックに適用されます。指定できるのは宛先ポートだけです。送信元ポートに基づくルールはサポートされていません。
-![](https://storage.googleapis.com/zenn-user-upload/85f86f62e19c-20220507.png =400x)
+![](https://storage.googleapis.com/zenn-user-upload/85f86f62e19c-20220507.png =600x)
