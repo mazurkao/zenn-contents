@@ -4,4 +4,4 @@ title: "ファイアウォール"
 # ファイアウォールとは
 ファイアウォールとは、コンピュータやネットワークとの通信を設定したポリシーに従って許可または拒否するセキュリティ機能のこと。  
 例えばクラウドの外からアクセスしてくるユーザの端末とCE間のネットワーク通信を制御する。  
-![](https://storage.googleapis.com/zenn-user-upload/00f7405786bf-20220507.png)
+![](https://storage.googleapis.com/zenn-user-upload/00f7405786bf-20220507.png =350x)
