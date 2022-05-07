@@ -9,3 +9,4 @@ chapters:
   - gcp-first
   - gcp-vpc-firewall
   - gcp-operationsuite
+  - gcp-serverless-cloudfunctions
